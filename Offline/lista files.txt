@@ -1,0 +1,7 @@
+Lista de Archivos .mat y uso
+
+graphs_gui.m
+graphs_gui.fig  Plataforma principal
+
+inputhardware.m Busca dispositivos instalados
+record_v1       Primera versión de grabación
